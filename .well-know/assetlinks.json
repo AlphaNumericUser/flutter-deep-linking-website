@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alfredodiaz.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["95:12:71:88:D0:8B:F9:42:4E:27:31:E4:9E:88:95:98:57:B0:C0:1A:98:49:6D:E1:F6:AB:96:91:30:C3:FF:B0"]
+    }
+  }]
+  
